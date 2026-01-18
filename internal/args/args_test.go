@@ -1,8 +1,9 @@
 package args_test
 
 import (
-	"godot-downloader/internal/args"
 	"testing"
+
+	"github.com/xlanstar/godot-downloader/internal/args"
 )
 
 func TestIsVersionValid(t *testing.T) {

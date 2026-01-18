@@ -1,4 +1,4 @@
-module godot-downloader
+module github.com/xlanstar/godot-downloader
 
 go 1.25.6
 

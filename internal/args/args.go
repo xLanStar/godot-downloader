@@ -2,10 +2,11 @@ package args
 
 import (
 	"fmt"
-	"godot-downloader/internal/parser"
 	"regexp"
 	"runtime"
 	"strings"
+
+	"github.com/xlanstar/godot-downloader/internal/parser"
 )
 
 type GodotPlatformArg string

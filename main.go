@@ -3,13 +3,14 @@ package main
 import (
 	"archive/zip"
 	"fmt"
-	"godot-downloader/internal/args"
-	"godot-downloader/internal/downloader"
-	"godot-downloader/internal/parser"
 	"io"
 	"log"
 	"os"
 	"path/filepath"
+
+	"github.com/xlanstar/godot-downloader/internal/args"
+	"github.com/xlanstar/godot-downloader/internal/downloader"
+	"github.com/xlanstar/godot-downloader/internal/parser"
 
 	"github.com/alexflint/go-arg"
 )
