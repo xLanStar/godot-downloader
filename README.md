@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-go install github.com/xlanstar/godot-downloader
+go install github.com/xlanstar/godot-downloader@latest
 ```
 
 ## Usage
